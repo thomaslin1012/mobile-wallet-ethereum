@@ -1,9 +1,3 @@
-/**
- * Ethereum Wallet React Native App
- * 
- * @author Huseyin RAN
- */
-
 import React, { Component } from 'react';
 import { StyleSheet, View, AsyncStorage } from 'react-native';
 import Home from './src/navigation/index';
